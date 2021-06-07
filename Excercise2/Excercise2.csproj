@@ -5,4 +5,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\HeadFIrstCSharp8_1\HeadFirstCSharp8_1.csproj" />
+  </ItemGroup>
+
 </Project>
